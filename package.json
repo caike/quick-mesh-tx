@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "@meshsdk/core": "^1.9.0-beta.69"
+  },
+  "name": "gencbor",
+  "version": "1.0.0",
+  "main": "start.js",
+  "scripts": {
+    "create-tx": "node create-signed-tx.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
